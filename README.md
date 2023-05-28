@@ -15,24 +15,26 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiraCavalcanti&layout=compact&hide_border=true&title_color=#00FFFF&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-
-<a href = "mailto:cmp.1a.samicavalcanti@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=pink" target="_blank"></a>
-<a href="https://www.linkedin.com/in/samira-cavalcanti-a20144199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
  
 
 ### Studying in this moment:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=,git,mysql,postgres,aws,py,html" />
-  </a>
- <p> Obs:Meus cursos,no momento, são mais voltados para a área de banco de dados.</p>
- <p> Estudando também:</p>
-<p> *Análise de dados do Google</p>
-<p>*Bancos de dados e SQL para Ciência de Dados IBM</p>
-<p> *Design de UX do Google</p>
-</p>
+ 
+<div align="center">
+<a href = "mailto:cmp.1a.samicavalcanti@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=pink" target="_blank" aligin=center></a>
+<a href="https://www.linkedin.com/in/samira-cavalcanti-a20144199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
 <img width=100% src="https://www.iugu.com/hubfs/O-que-%C3%A9-github-e-qual-a-sua-import%C3%A2ncia-para-a-programa%C3%A7%C3%A3o.jpg"/> 
+ 
+ </a>
+ 
+<p> Estudando também:</p>
+<p> *Análise de dados (Google)</p>
+<p>*Bancos de dados e SQL para Ciência de Dados (IBM)</p>
+<p> *Design de UX (Google)</p>
+</p>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
