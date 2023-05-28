@@ -1,7 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F8F8FF&height=120&section=header"/>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3FE7F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Samira+Cavalcanti;I'm+from+Brazil+;Graduated+Analysis+Systems+Development+;Welcome!)](https://git.io/typing-svg)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamiraCavalcanti&bg_color=141414&color=43ad92&line=4acfd9&point=45f279&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SamiraCavalcanti&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -12,7 +13,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SamiraCavalcanti&show_icons=true&count_private=true&hide_border=true&title_color=#D8BFD8icon_color=#D8BFD8&text_color=c9d1d9&bg_color=0d1117" alt="Samira Cavalcanti github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiraCavalcanti&layout=compact&hide_border=true&title_color=#00FFFF&text_color=ff91a4&bg_color=0d1117" />
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiraCavalcanti&layout=compact&hide_border=true&title_color=#00FFFF&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
  
