@@ -25,7 +25,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=,git,mysql,postgres,aws,py,html" />
   </a>
- <p> Obs:Meus cursos são mais voltados para a área de banco de dados.</p>
+ <p> Obs:Meus cursos,no momento, são mais voltados para a área de banco de dados.</p>
  <p> Estudando também:</p>
 <p> *Análise de dados do Google</p>
 <p>*Bancos de dados e SQL para Ciência de Dados IBM</p>
