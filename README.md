@@ -10,8 +10,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SamiraCavalcanti&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Samira Cavalcanti github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiraCavalcanti&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SamiraCavalcanti&show_icons=true&count_private=true&hide_border=true&title_color=#D8BFD8icon_color=#D8BFD8&text_color=c9d1d9&bg_color=0d1117" alt="Samira Cavalcanti github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiraCavalcanti&layout=compact&hide_border=true&title_color=#00FFFF&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 
@@ -32,3 +32,9 @@
 <p> *Design de UX do Google</p>
 </p>
 <img width=100% src="https://www.iugu.com/hubfs/O-que-%C3%A9-github-e-qual-a-sua-import%C3%A2ncia-para-a-programa%C3%A7%C3%A3o.jpg"/> 
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img color=#00FFFF"  align="center" src="https://profile-counter.glitch.me/{SamiraCavalcanti}/count.svg" /></p> 
+<br>
+</div>
