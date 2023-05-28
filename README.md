@@ -23,8 +23,11 @@
 ### Studying in this moment:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,git,mysql,postgres,aws,py" />
+    <img src="https://skillicons.dev/icons?i=,git,mysql,postgres,aws,py,html" />
   </a>
- <p> Obs:Estou fazendo cursos voltado para a área de dados.</p>
+ <p> Obs:Meus cursos são mais voltados para a área de banco de dados.</p>
+ <p> Estudando também:</p>
+<p> *Análise de dados do Google</p>
+<p> *Design de UX do Google</p>
 </p>
 <img width=100% src="https://www.iugu.com/hubfs/O-que-%C3%A9-github-e-qual-a-sua-import%C3%A2ncia-para-a-programa%C3%A7%C3%A3o.jpg"/> 
