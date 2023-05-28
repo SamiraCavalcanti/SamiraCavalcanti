@@ -28,6 +28,7 @@
  <p> Obs:Meus cursos são mais voltados para a área de banco de dados.</p>
  <p> Estudando também:</p>
 <p> *Análise de dados do Google</p>
+<p>*Bancos de dados e SQL para Ciência de Dados IBM</p>
 <p> *Design de UX do Google</p>
 </p>
 <img width=100% src="https://www.iugu.com/hubfs/O-que-%C3%A9-github-e-qual-a-sua-import%C3%A2ncia-para-a-programa%C3%A7%C3%A3o.jpg"/> 
