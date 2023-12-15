@@ -12,7 +12,21 @@
 | :-: | :-: |
 
  
-
+<p align="center">
+  <a href="https://www.credly.com/badges/b9b45b11-4bc5-48d3-b984-9ac044620c69/public_url">
+    <img src="https://github.com/SamiraCavalcanti/SamiraCavalcanti/blob/main/image%20(1).png?raw=true" alt=" – Associate" width="120" height="120">
+  </a>
+  <a href="https://www.credly.com/badges/b9b45b11-4bc5-48d3-b984-9ac044620c69/public_url">
+    <img src="https://github.com/SamiraCavalcanti/SamiraCavalcanti/blob/main/image%20(2).png?raw=true" alt="" width="120" height="120">
+  </a>
+   <a href="https://www.credly.com/badges/b524a9f4-fa6a-4244-bbfb-598b0ec04de9/public_url">
+    <img src="https://github.com/SamiraCavalcanti/SamiraCavalcanti/blob/main/image%20(3).png?raw=true" alt="" width="110" height="110">
+  </a>
+ 
+  <a href="https://www.credly.com/badges/a3875ef2-d6dd-4476-8e19-b79e07a7c210/public_url">
+    <img src="https://github.com/SamiraCavalcanti/SamiraCavalcanti/blob/main/image.png?raw=true" alt="" width="110" height="110">
+  </a>
+</p>
 
 
 
