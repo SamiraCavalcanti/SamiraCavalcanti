@@ -5,10 +5,10 @@
 #  
 
 # Git Status 💕                                                                                                        
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamiraCavalcanti&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamiraCavalcanti&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamiraCavalcanti&theme=radical) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samiracavalcanti&theme=radical)| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamiraCavalcanti&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samiracavalcanti&theme=aura) |
 | :-: | :-: | :-: |
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamiraCavalcanti&theme=radical&utcOffset=-3) |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamiraCavalcanti&theme=radical)| 
+|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samiracavalcanti&theme=radical&utcOffset=-3) |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samiracavalcanti&theme=radical)| 
 | :-: | :-: |
 
 #  
