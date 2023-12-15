@@ -8,10 +8,10 @@
 
 
 ## ⭐Git Status
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamiraCavalcanti&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamiraCavalcanti&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamiraCavalcanti&theme=blueberry) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamiraCavalcanti&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamiraCavalcanti&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamiraCavalcanti&theme=radical) |
 | :-: | :-: | :-: |
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamiraCavalcanti&theme=blueberry&utcOffset=-3) |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamiraCavalcanti&theme=radical)| 
+|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamiraCavalcanti&theme=radical&utcOffset=-3) |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamiraCavalcanti&theme=radical)| 
 | :-: | :-: |
 
  
@@ -25,7 +25,7 @@
 ### Studying in this moment:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,git,mysql,postgres,aws,py,html" />
+    <img src="https://skillicons.dev/icons?i=,git,mysql,postgres,aws,py,html,bash,php" />
  
 <div align="center">
 <a href = "mailto:cmp.1a.samicavalcanti@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=pink" target="_blank" aligin=center></a>
