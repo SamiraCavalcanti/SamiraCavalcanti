@@ -16,8 +16,12 @@
 🎉 BADGES 🎉
  
 <p align="center">
+  <a href="https://www.credly.com/badges/ed9aea56-ebe5-4eb9-be89-b6ffef86dd8e/public_url">
+    <img src="https://github.com/SamiraCavalcanti/SamiraCavalcanti/blob/main/image%20(4).png?raw=true" alt="" width="150" height="150">
+  </a>
+ 
   <a href="https://www.credly.com/badges/b9b45b11-4bc5-48d3-b984-9ac044620c69/public_url">
-    <img src="https://github.com/SamiraCavalcanti/SamiraCavalcanti/blob/main/image%20(1).png?raw=true" alt=" – Associate" width="150" height="150">
+    <img src="https://github.com/SamiraCavalcanti/SamiraCavalcanti/blob/main/image%20(1).png?raw=true" alt=" " width="150" height="150">
   </a>
   <a href="https://www.credly.com/badges/b9b45b11-4bc5-48d3-b984-9ac044620c69/public_url">
     <img src="https://github.com/SamiraCavalcanti/SamiraCavalcanti/blob/main/image%20(2).png?raw=true" alt="" width="150" height="150">
