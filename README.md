@@ -5,10 +5,10 @@
 #  
 
 # Git Status 💕                                                                                                        
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samiracavalcanti&theme=radical)| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamiraCavalcanti&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samiracavalcanti&theme=aura) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamiraCavalcanti&theme=dracula)| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamiraCavalcanti&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamiraCavalcanti&theme=dracula) |
 | :-: | :-: | :-: |
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samiracavalcanti&theme=radical&utcOffset=-3) |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samiracavalcanti&theme=radical)| 
+|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamiraCavalcanti&theme=dracula&utcOffset=8) |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamiraCavalcanti&theme=dracula)| 
 | :-: | :-: |
 
 #  
@@ -47,7 +47,7 @@
  ✨ Studying in this moment ✨
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,git,mysql,postgres,aws,py,html,bash,php" />
+    <img src="https://skillicons.dev/icons?i=,git,mysql,postgres,aws,py,bash,jenkins,docker,linux,github,devops" />
  
 <div align="center">
 <a href = "mailto:cmp.1a.samicavalcanti@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=pink" target="_blank" aligin=center></a>
