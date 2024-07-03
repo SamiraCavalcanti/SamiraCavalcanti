@@ -60,6 +60,7 @@
 <br>
 </div>
 
-![Imagem](https://github.com/SamiraCavalcanti/SamiraCavalcanti/blob/main/App-Developer.gif)
+
+![Imagem](https://chaton-files.s3.us-east-2.amazonaws.com/p/iUyFBsGmGk21lcH5f7ou1/AxJHOeRa5aBUOcmKKDQXh/nzTM9hzk2RR98iLLTKmBs1.jpeg)
 
 
