@@ -33,6 +33,12 @@
   <a href="https://www.credly.com/badges/a3875ef2-d6dd-4476-8e19-b79e07a7c210/public_url">
     <img src="https://github.com/SamiraCavalcanti/SamiraCavalcanti/blob/main/image.png?raw=true" alt="" width="150" height="150">
   </a>
+  <a href="https://www.credly.com/badges/143235319">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/143235319" alt="Selo Accredible" width="150" height="150">
+</a>
+
+ 
+
 </p>
 
 #
@@ -61,6 +67,6 @@
 </div>
 
 
-![Imagem](https://chaton-files.s3.us-east-2.amazonaws.com/p/iUyFBsGmGk21lcH5f7ou1/AxJHOeRa5aBUOcmKKDQXh/nzTM9hzk2RR98iLLTKmBs1.jpeg)
+
 
 
