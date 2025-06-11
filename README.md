@@ -53,7 +53,7 @@
  ✨ Studying in this moment ✨
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,git,mysql,postgres,aws,py,bash,jenkins,docker,linux,github,devops" />
+    <img src="https://skillicons.dev/icons?i=,git,postgres,aws,py,bash,docker,linux,terraform,kubernetes" />
  
 <div align="center">
 <a href = "mailto:cmp.1a.samicavalcanti@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=pink" target="_blank" aligin=center></a>
