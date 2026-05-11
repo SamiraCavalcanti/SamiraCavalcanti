@@ -1,7 +1,6 @@
 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EDD382&size=32&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Samira+Cavalcanti;Junior+DevOps+%26+Cloud+Engineer;DevOps+Postgraduate+Student;Systems+Analysis+Graduate;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-
-#  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EDD382&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Samira+Cavalcanti;I'm+from+Brazil+;Graduated+Systems+Analysis+and+Development+;Welcome!)](https://git.io/typing-svg)
 #  
 
 # Git Status 💕                                                                                                        
@@ -61,11 +60,13 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" )](https://www.linkedin.com/in/samiracavalcanti)
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img color=#00FFFF"  align="center" src="https://profile-counter.glitch.me/{SamiraCavalcanti}/count.svg" /></p> 
-<br>
+  <br>
+  <p align="center"><b>Visitors Count</b></p>  
+  <p align="center">
+    <img color="#00FFFF" align="center" src="https://profile-counter.glitch.me/SamiraCavalcanti/count.svg">
+  </p> 
+  <br>
 </div>
-
 
 
 
