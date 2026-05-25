@@ -59,14 +59,14 @@
  
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" )](https://www.linkedin.com/in/samiracavalcanti)
 
-<div align="center">
+<!-- <div align="center">
   <br>
   <p align="center"><b>Visitors Count</b></p>  
   <p align="center">
     <img color="#00FFFF" align="center" src="https://profile-counter.glitch.me/SamiraCavalcanti/count.svg">
   </p> 
   <br>
-</div>
+</div> -->
 
 
 
